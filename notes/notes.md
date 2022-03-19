@@ -19,3 +19,8 @@ We're rendering RDF graphs as force-directed SVG layout.
 The Saxon-JS layer only adds interactivity.
 The layout logic is in a plain XSLT 3.0 stylesheet.
 It transforms normalized (by Jena) RDF/XML output.
+
+Cites:
+
+* Algorithm: <http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf>
+* Python implementation of algorithm: <https://gist.github.com/mmisono/8972731>
