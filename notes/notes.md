@@ -24,3 +24,11 @@ Cites:
 
 * Algorithm: <http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf>
 * Python implementation of algorithm: <https://gist.github.com/mmisono/8972731>
+
+## References
+
+“d3-force” documentation <https://github.com/d3/d3-force/blob/main/README.md>
+Kobourov, Stephen G. 2013. “Force-Directed Drawing Algorithms.” In Roberto Tamassia (editor), *Handbook of Graph Drawing and Visualization*, p. CRC Press, 2013, 383–408. <https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/force-directed.pdf>
+Mchedlidze, Tamara. 2016. “Algorithms for Graph Visualization Force-Directed Algorithms.” <https://i11www.iti.kit.edu/_media/teaching/winter2016/graphvis/graphvis-ws16-v6.pdf>
+Roth, Tom. “Force graphs” <https://tomroth.com.au/d3/#force-graphs>
+Wu, Shirley. 2014. “Understanding the force”. <https://medium.com/@sxywu/understanding-the-force-ef1237017d5>
